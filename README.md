@@ -14,7 +14,7 @@
   4. Install axios to make a request.
   5. Write Code.
 
-  ```json
+  ```bash
   api = jsonplaceholder.typicode.com/todos // Fake JSON API
   ```
   ```bash
@@ -22,9 +22,10 @@
   cd fetchjson
   npm init -y
   ```
-  ```json
-  output :
 
+  Output :
+  
+  ```json
   {
     "name": "fetchjson",
     "version": "1.0.0",
